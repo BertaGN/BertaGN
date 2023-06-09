@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BertaGN
 - 👀 I’m interested in technology, software, IA..
-- 🌱 I’m currently learning Software development 
+- 🌱 I’m looking for Fullstack Junior Development job
 - 💞️ I’m looking to collaborate on interesting projects 
 - 📫 How to reach me bertagnavarro93@gmail.com
 
